@@ -1,0 +1,7 @@
+C:\EclipseWorkSpace\FreeCrmTest\src\main\java\com\crm\qa\config\config.properties
+
+  System.setProperty("webdriver.chrome.driver","C:\\EclipseWorkSpace\\Seleniumdownloads\\chrome\\chromedriver_win32\\chromedriver.exe"
+
+
+ReadPropertiesFile.java
+\DynamicCalandar.java  (Free CRM)

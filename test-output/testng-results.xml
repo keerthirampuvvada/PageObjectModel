@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23917" started-at="2022-01-10T14:03:35 IST" finished-at="2022-01-10T14:03:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23917" started-at="2022-01-10T14:03:35 IST" finished-at="2022-01-10T14:03:59 IST">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="setUp" is-config="true" duration-ms="4405" started-at="2022-01-10T14:03:35 IST" finished-at="2022-01-10T14:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleOfPageTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="loginPageTitleOfPageTest" duration-ms="14" started-at="2022-01-10T14:03:40 IST" finished-at="2022-01-10T14:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleOfPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="tearDown" is-config="true" duration-ms="679" started-at="2022-01-10T14:03:40 IST" finished-at="2022-01-10T14:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="setUp" is-config="true" duration-ms="3310" started-at="2022-01-10T14:03:40 IST" finished-at="2022-01-10T14:03:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageLaunchLandingpageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="loginPageLaunchLandingpageTest" duration-ms="2172" started-at="2022-01-10T14:03:44 IST" finished-at="2022-01-10T14:03:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLaunchLandingpageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="tearDown" is-config="true" duration-ms="654" started-at="2022-01-10T14:03:46 IST" finished-at="2022-01-10T14:03:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="setUp" is-config="true" duration-ms="4500" started-at="2022-01-10T14:03:46 IST" finished-at="2022-01-10T14:03:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageLoginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="loginPageLoginTest" duration-ms="7482" started-at="2022-01-10T14:03:51 IST" finished-at="2022-01-10T14:03:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45820e51]" name="tearDown" is-config="true" duration-ms="662" started-at="2022-01-10T14:03:58 IST" finished-at="2022-01-10T14:03:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
